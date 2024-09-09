@@ -1,4 +1,5 @@
 # Mirror Axis - WordPress Website
+### Ссылка на проект - **<a href="http://mirror-axis.intrider-dev.ru" target="_blank">ссылка</a>**
 #### На этапе разработки и подбора контента клиентом
 <img src="http://mirror-axis.intrider-dev.ru/ma-screen.png">
 
