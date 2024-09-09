@@ -1,2 +1,1 @@
-# mirror-axis
-Small site for serbian 3d-modeling studio
+<img src="http://intrider.ru/codex-bx-screen.png">
