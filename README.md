@@ -1,7 +1,7 @@
 # Mirror Axis - WordPress Website
 
-### Все права на реализацию принадлежат владельцу исходного сайта: Михаил Афанасьев (<a href="https://t.me/nelerado" target="_blank">ссылка</a>)
-#### All rights to the implementation belong to the owner of the original site: Mikhail Afanasev (<a href="https://t.me/nelerado" target="_blank">link</a>)
+### Все права на реализацию принадлежат заказчику: Михаил Афанасьев (<a href="https://t.me/nelerado" target="_blank">ссылка</a>)
+#### All rights to implement belong to the customer: Mikhail Afanasev (<a href="https://t.me/nelerado" target="_blank">link</a>)
 ### Дизайн: Никита Рублев (<a href="https://sun-golf-ba5.notion.site/86635581f7724d9db60dc9c256d7ee4d" target="_blank">ссылка</a>)
 ##### Design: Nikita Rublev (<a href="https://sun-golf-ba5.notion.site/86635581f7724d9db60dc9c256d7ee4d" target="_blank">link</a>)
 ### Проект - **<a href="http://mirror-axis.intrider-dev.ru" target="_blank">ссылка</a>**
